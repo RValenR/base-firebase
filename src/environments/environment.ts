@@ -7,6 +7,13 @@ export const environment = {
   useEmulators: true,
   firebase: {
         //Aqui configuracion proporcionada por firebase
+    apiKey: "AIzaSyAEKGXsbfw-FKUSKDhsnMv8KYjX3Vav91c",
+    authDomain: "base-firebase-9cf02.firebaseapp.com",
+    projectId: "base-firebase-9cf02",
+    storageBucket: "base-firebase-9cf02.appspot.com",
+    messagingSenderId: "1002883772880",
+    appId: "1:1002883772880:web:a7c1616cb9a3ed5ff889d5",
+    measurementId: "G-0ZQ9DDF3N7"
   }
 };
 
