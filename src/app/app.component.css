@@ -2,23 +2,21 @@
 
 body {
     align-items: center;
-    margin-top: 17%;
-    margin-left: 45%;
+    color: #fff;
+    opacity: 0.5;
+    text-align: center;
+    padding: 10%;
+    margin-top: 3%;
+    margin-left: 5%;
 }
 
 .message {
     color: aliceblue;
-    margin-left: -7%;
     font-size: 25px;
-}
-
-.containerFirst {
-    align-items: center;
 }
 
 .title {
     color: aliceblue;
-    margin-left: -23%;
     font-size: 40px;
 }
 
@@ -33,7 +31,8 @@ body {
     height: 40px;
     overflow: hidden;
     transition: .5s;
-    letter-spacing: 2px
+    letter-spacing: 2px;
+    margin-left: 43%;
 }
 
 .loader span {
